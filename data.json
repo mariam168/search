@@ -1,0 +1,1044 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3a2_MbdHzpgLJvWTYqQdfXd0ehD9-ihQsgHUy5xl53cehcK0wIELWXilrDWJLPiWivEWA",
+      "title": "Frankenstein",
+      "starRate": 2345,
+      "wantRead": 234,
+      "currentRead": 3457,
+      "haveRead": 38005,
+      "publishDate": 2020,
+      "publisher": "Bloomsbury Publishing",
+      "language": "English",
+      "pages": 230,
+      "publishPlace": "London, UK",
+      "series": "Court of Thorns and Roses #2",
+      "format": "Paperback",
+      "pagination": "626 pages : maps",
+      "dimensions": "20 x 13 x 4.2 centimeters",
+      "openLibrary": "OL30162974M",
+      "internetArchive": "courtofmistfury0000maas_c3x6",
+      "ISBN10": "1526617161",
+      "ISBN13": "9781526617163",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ63gauqb3UD33ZK1F7OUSJaUGmSO6Awpka_uHccetMtZKfILHg",
+          "name": "Shelley, Mary Wollstonecraft",
+          "birth_year": 1797,
+          "death_year": 1851,
+          "authorInformation": "Frankenstein; or, The Modern Prometheus is an 1818 novel written by English author Mary Shelley. Frankenstein tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment.",
+          "booksNumber": 20,
+          "novelsNumber": 30,
+          "quotesNumber": 50,
+          "storiesNumber": 60,
+          "authorWorks": [
+            {
+              "title": "Mary Shelley's Frankenstein",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_jZfz4t7VtgEUQ6l41gSTu298APupIM2CjA&usqp=CAU"
+            },
+            {
+              "title": "Frankenstein",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuYoVBmjvXolKvixpu38AiNTT3v1F-5xCaOA&usqp=CAU"
+            },
+            {
+              "title": "What Is the Story of Frankenstein?",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUHXuYaUa3rjcryfqMrIVznBCG6f6tn-UYzw&usqp=CAU"
+            },
+            {
+              "title": "Frankenstein the Real Story",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMp_5yfZq0JcpcV4P8_e4m3AGo89lWpX2Nv3nglHvZ6xQN_v_z7cDqiKuOLjpH1bVSph8&usqp=CAU"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    },
+    {
+      "id": 2,
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3a2_MbdHzpgLJvWTYqQdfXd0ehD9-ihQsgHUy5xl53cehcK0wIELWXilrDWJLPiWivEWA",
+      "title": "Pride and Prejudice",
+      "starRate": 4000,
+      "wantRead": 120,
+      "currentRead": 4500,
+      "haveRead": 30000,
+      "publishDate": 1813,
+      "publisher": "T. Egerton, Whitehall",
+      "language": "English",
+      "pages": 279,
+      "publishPlace": "London, UK",
+      "series": null,
+      "format": "Hardcover",
+      "pagination": "279 pages",
+      "dimensions": "20.5 x 13.5 x 4 centimeters",
+      "openLibrary": "OL2545678M",
+      "internetArchive": "prideprejudice0000jane",
+      "ISBN10": "0141439513",
+      "ISBN13": "9780141439518",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROgSDne8m5O3nkHGxzVozVd6kRn4DMsfMFrk9K8gQLgLON03Ax",
+          "name": "Austen, Jane",
+          "birth_year": 1775,
+          "death_year": 1817,
+          "authorInformation": "Jane Austen was an English novelist known primarily for her six novels, which implicitly interpret, critique, and comment upon the British landed gentry at the end of the 18th century.",
+          "booksNumber": 9,
+          "novelsNumber": 30,
+          "quotesNumber": 90,
+          "storiesNumber": 50,
+          "authorWorks": [
+            {
+              "title": "Pride and Prejudice",
+              "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3a2_MbdHzpgLJvWTYqQdfXd0ehD9-ihQsgHUy5xl53cehcK0wIELWXilrDWJLPiWivEWA"
+            },
+            {
+              "title": "Emma",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqf3zbaaFy-S6TiRc1Uq2CYlmbkso2exFFUA&s"
+            },
+            {
+              "title": "Persuasion",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0jePh3qWZn9sJz713lz5_3VPYF4qqxXx_6g&s"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    },
+    {
+      "id": 4,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIoK6OIAZgmS1M7iluBHahHNFgJLNqnONq3lK4hj7kCAJsvQTDcgyKuKNX8g&s=10",
+      "title": "Romeo and Juliet",
+      "starRate": 5000,
+      "wantRead": 300,
+      "currentRead": 5000,
+      "haveRead": 40000,
+      "publishDate": 1597,
+      "publisher": "Thomas Creede",
+      "language": "English",
+      "pages": 159,
+      "publishPlace": "London, UK",
+      "series": null,
+      "format": "Paperback",
+      "pagination": "159 pages",
+      "dimensions": "20 x 13 x 1.5 centimeters",
+      "openLibrary": "OL362233M",
+      "internetArchive": "romeojuliet00shak",
+      "ISBN10": "0451528371",
+      "ISBN13": "9780451528376",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZAH8Sx3JCqGo5DQoCOVbmLYuRSqbqAs48g&s",
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616,
+          "authorInformation": "William Shakespeare was an English playwright, poet, and actor. He is widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist.",
+          "booksNumber": 20,
+          "novelsNumber": 8,
+          "quotesNumber": 0,
+          "storiesNumber": 0,
+          "authorWorks": [
+            {
+              "title": "Romeo and Juliet",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIoK6OIAZgmS1M7iluBHahHNFgJLNqnONq3lK4hj7kCAJsvQTDcgyKuKNX8g&s=10"
+            },
+            {
+              "title": "King Lear",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqGoyK75qaCnbV4yXLAdlNjf9GIGrTM8QTX0OqlPXk9k9mhN_gLJebAfRnOWg&s=10"
+            },
+            {
+              "title": "Julius Caesar",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpdpXLJED2WsU7rp8VSBA0L_Itg3VaWSC1immjQ66oSnnP8AwzD5WdjI5InBA5lwLQ9Gg&s=10"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    },
+    {
+      "id": 3,
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3a2_MbdHzpgLJvWTYqQdfXd0ehD9-ihQsgHUy5xl53cehcK0wIELWXilrDWJLPiWivEWA",
+      "title": "The Great Gatsby",
+      "starRate": 2900,
+      "wantRead": 400,
+      "currentRead": 1400,
+      "haveRead": 7000,
+      "publishDate": 1925,
+      "publisher": "Charles Scribner's Sons",
+      "language": "English",
+      "pages": 218,
+      "publishPlace": "New York, NY, USA",
+      "series": null,
+      "format": "Hardcover",
+      "pagination": "218 pages",
+      "dimensions": "22 x 14 x 3 centimeters",
+      "openLibrary": "OL6792357M",
+      "internetArchive": "greatgatsby00fitz",
+      "ISBN10": "0743273567",
+      "ISBN13": "9780743273565",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYsN_0nntDZg4qzr1qJNLklwPIICBgwkS_S9w&s",
+          "name": "Fitzgerald, F. Scott",
+          "birth_year": 1896,
+          "death_year": 1940,
+          "authorInformation": "F. Scott Fitzgerald was an American novelist and short story writer, widely regarded as one of the greatest American writers of the 20th century.",
+          "booksNumber": 30,
+          "novelsNumber": 12,
+          "quotesNumber": 30,
+          "storiesNumber": 20,
+          "authorWorks": [
+            {
+              "title": "The Great Gatsby",
+              "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnA0D1-HqgVi5G_5b6Ow-6fMr2HhR4Zx7OdR1w3Aey4PqbpMXuUOqg4Bv4i6Kf8cJ5CZQ&s"
+            },
+            {
+              "title": "Tender Is the Night",
+              "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeEw6FGIobGbPEyFmGQg3XkeQc93Wf7AXy5A&s"
+            },
+            {
+              "title": "This Side of Paradise",
+              "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS39T1RrNhGpBi4ENjmcN04hyaWq3nv0odTP6X&s"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    },
+    {
+      "id": 5,
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3a2_MbdHzpgLJvWTYqQdfXd0ehD9-ihQsgHUy5xl53cehcK0wIELWXilrDWJLPiWivEWA",
+      "title": "Frankenstein",
+      "starRate": 2345,
+      "wantRead": 234,
+      "currentRead": 3457,
+      "haveRead": 38005,
+      "publishDate": 2020,
+      "publisher": "Bloomsbury Publishing",
+      "language": "English",
+      "pages": 230,
+      "publishPlace": "London, UK",
+      "series": "Court of Thorns and Roses #2",
+      "format": "Paperback",
+      "pagination": "626 pages : maps",
+      "dimensions": "20 x 13 x 4.2 centimeters",
+      "openLibrary": "OL30162974M",
+      "internetArchive": "courtofmistfury0000maas_c3x6",
+      "ISBN10": "1526617161",
+      "ISBN13": "9781526617163",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ63gauqb3UD33ZK1F7OUSJaUGmSO6Awpka_uHccetMtZKfILHg",
+          "name": "Shelley, Mary Wollstonecraft",
+          "birth_year": 1797,
+          "death_year": 1851,
+          "authorInformation": "Frankenstein; or, The Modern Prometheus is an 1818 novel written by English author Mary Shelley. Frankenstein tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment.",
+          "booksNumber": 20,
+          "novelsNumber": 30,
+          "quotesNumber": 50,
+          "storiesNumber": 60,
+          "authorWorks": [
+            {
+              "title": "Mary Shelley's Frankenstein",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_jZfz4t7VtgEUQ6l41gSTu298APupIM2CjA&usqp=CAU"
+            },
+            {
+              "title": "Frankenstein",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuYoVBmjvXolKvixpu38AiNTT3v1F-5xCaOA&usqp=CAU"
+            },
+            {
+              "title": "What Is the Story of Frankenstein?",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUHXuYaUa3rjcryfqMrIVznBCG6f6tn-UYzw&usqp=CAU"
+            },
+            {
+              "title": "Frankenstein the Real Story",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMp_5yfZq0JcpcV4P8_e4m3AGo89lWpX2Nv3nglHvZ6xQN_v_z7cDqiKuOLjpH1bVSph8&usqp=CAU"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    },
+    {
+      "id": 6,
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3a2_MbdHzpgLJvWTYqQdfXd0ehD9-ihQsgHUy5xl53cehcK0wIELWXilrDWJLPiWivEWA",
+      "title": "Pride and Prejudice",
+      "starRate": 4000,
+      "wantRead": 120,
+      "currentRead": 4500,
+      "haveRead": 30000,
+      "publishDate": 1813,
+      "publisher": "T. Egerton, Whitehall",
+      "language": "English",
+      "pages": 279,
+      "publishPlace": "London, UK",
+      "series": null,
+      "format": "Hardcover",
+      "pagination": "279 pages",
+      "dimensions": "20.5 x 13.5 x 4 centimeters",
+      "openLibrary": "OL2545678M",
+      "internetArchive": "prideprejudice0000jane",
+      "ISBN10": "0141439513",
+      "ISBN13": "9780141439518",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROgSDne8m5O3nkHGxzVozVd6kRn4DMsfMFrk9K8gQLgLON03Ax",
+          "name": "Austen, Jane",
+          "birth_year": 1775,
+          "death_year": 1817,
+          "authorInformation": "Jane Austen was an English novelist known primarily for her six novels, which implicitly interpret, critique, and comment upon the British landed gentry at the end of the 18th century.",
+          "booksNumber": 9,
+          "novelsNumber": 30,
+          "quotesNumber": 90,
+          "storiesNumber": 50,
+          "authorWorks": [
+            {
+              "title": "Pride and Prejudice",
+              "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3a2_MbdHzpgLJvWTYqQdfXd0ehD9-ihQsgHUy5xl53cehcK0wIELWXilrDWJLPiWivEWA"
+            },
+            {
+              "title": "Emma",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqf3zbaaFy-S6TiRc1Uq2CYlmbkso2exFFUA&s"
+            },
+            {
+              "title": "Persuasion",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0jePh3qWZn9sJz713lz5_3VPYF4qqxXx_6g&s"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    },
+    {
+      "id": 7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIoK6OIAZgmS1M7iluBHahHNFgJLNqnONq3lK4hj7kCAJsvQTDcgyKuKNX8g&s=10",
+      "title": "Romeo and Juliet",
+      "starRate": 5000,
+      "wantRead": 300,
+      "currentRead": 5000,
+      "haveRead": 40000,
+      "publishDate": 1597,
+      "publisher": "Thomas Creede",
+      "language": "English",
+      "pages": 159,
+      "publishPlace": "London, UK",
+      "series": null,
+      "format": "Paperback",
+      "pagination": "159 pages",
+      "dimensions": "20 x 13 x 1.5 centimeters",
+      "openLibrary": "OL362233M",
+      "internetArchive": "romeojuliet00shak",
+      "ISBN10": "0451528371",
+      "ISBN13": "9780451528376",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZAH8Sx3JCqGo5DQoCOVbmLYuRSqbqAs48g&s",
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616,
+          "authorInformation": "William Shakespeare was an English playwright, poet, and actor. He is widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist.",
+          "booksNumber": 20,
+          "novelsNumber": 8,
+          "quotesNumber": 0,
+          "storiesNumber": 0,
+          "authorWorks": [
+            {
+              "title": "Romeo and Juliet",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIoK6OIAZgmS1M7iluBHahHNFgJLNqnONq3lK4hj7kCAJsvQTDcgyKuKNX8g&s=10"
+            },
+            {
+              "title": "King Lear",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqGoyK75qaCnbV4yXLAdlNjf9GIGrTM8QTX0OqlPXk9k9mhN_gLJebAfRnOWg&s=10"
+            },
+            {
+              "title": "Julius Caesar",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpdpXLJED2WsU7rp8VSBA0L_Itg3VaWSC1immjQ66oSnnP8AwzD5WdjI5InBA5lwLQ9Gg&s=10"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    },
+    {
+      "id": 8,
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnA0D1-HqgVi5G_5b6Ow-6fMr2HhR4Zx7OdR1w3Aey4PqbpMXuUOqg4Bv4i6Kf8cJ5CZQ&s",
+      "title": "The Great Gatsby",
+      "starRate": 2900,
+      "wantRead": 400,
+      "currentRead": 1400,
+      "haveRead": 7000,
+      "publishDate": 1925,
+      "publisher": "Charles Scribner's Sons",
+      "language": "English",
+      "pages": 218,
+      "publishPlace": "New York, NY, USA",
+      "series": null,
+      "format": "Hardcover",
+      "pagination": "218 pages",
+      "dimensions": "22 x 14 x 3 centimeters",
+      "openLibrary": "OL6792357M",
+      "internetArchive": "greatgatsby00fitz",
+      "ISBN10": "0743273567",
+      "ISBN13": "9780743273565",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYsN_0nntDZg4qzr1qJNLklwPIICBgwkS_S9w&s",
+          "name": "Fitzgerald, F. Scott",
+          "birth_year": 1896,
+          "death_year": 1940,
+          "authorInformation": "F. Scott Fitzgerald was an American novelist and short story writer, widely regarded as one of the greatest American writers of the 20th century.",
+          "booksNumber": 30,
+          "novelsNumber": 12,
+          "quotesNumber": 30,
+          "storiesNumber": 20,
+          "authorWorks": [
+            {
+              "title": "The Great Gatsby",
+              "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnA0D1-HqgVi5G_5b6Ow-6fMr2HhR4Zx7OdR1w3Aey4PqbpMXuUOqg4Bv4i6Kf8cJ5CZQ&s"
+            },
+            {
+              "title": "Tender Is the Night",
+              "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeEw6FGIobGbPEyFmGQg3XkeQc93Wf7AXy5A&s"
+            },
+            {
+              "title": "This Side of Paradise",
+              "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS39T1RrNhGpBi4ENjmcN04hyaWq3nv0odTP6X&s"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    },
+    {
+      "id": 9,
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3a2_MbdHzpgLJvWTYqQdfXd0ehD9-ihQsgHUy5xl53cehcK0wIELWXilrDWJLPiWivEWA",
+      "title": "Frankenstein",
+      "starRate": 2345,
+      "wantRead": 234,
+      "currentRead": 3457,
+      "haveRead": 38005,
+      "publishDate": 2020,
+      "publisher": "Bloomsbury Publishing",
+      "language": "English",
+      "pages": 230,
+      "publishPlace": "London, UK",
+      "series": "Court of Thorns and Roses #2",
+      "format": "Paperback",
+      "pagination": "626 pages : maps",
+      "dimensions": "20 x 13 x 4.2 centimeters",
+      "openLibrary": "OL30162974M",
+      "internetArchive": "courtofmistfury0000maas_c3x6",
+      "ISBN10": "1526617161",
+      "ISBN13": "9781526617163",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ63gauqb3UD33ZK1F7OUSJaUGmSO6Awpka_uHccetMtZKfILHg",
+          "name": "Shelley, Mary Wollstonecraft",
+          "birth_year": 1797,
+          "death_year": 1851,
+          "authorInformation": "Frankenstein; or, The Modern Prometheus is an 1818 novel written by English author Mary Shelley. Frankenstein tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment.",
+          "booksNumber": 20,
+          "novelsNumber": 30,
+          "quotesNumber": 50,
+          "storiesNumber": 60,
+          "authorWorks": [
+            {
+              "title": "Mary Shelley's Frankenstein",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_jZfz4t7VtgEUQ6l41gSTu298APupIM2CjA&usqp=CAU"
+            },
+            {
+              "title": "Frankenstein",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuYoVBmjvXolKvixpu38AiNTT3v1F-5xCaOA&usqp=CAU"
+            },
+            {
+              "title": "What Is the Story of Frankenstein?",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUHXuYaUa3rjcryfqMrIVznBCG6f6tn-UYzw&usqp=CAU"
+            },
+            {
+              "title": "Frankenstein the Real Story",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMp_5yfZq0JcpcV4P8_e4m3AGo89lWpX2Nv3nglHvZ6xQN_v_z7cDqiKuOLjpH1bVSph8&usqp=CAU"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    },
+    {
+      "id": 10,
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3a2_MbdHzpgLJvWTYqQdfXd0ehD9-ihQsgHUy5xl53cehcK0wIELWXilrDWJLPiWivEWA",
+      "title": "Pride and Prejudice",
+      "starRate": 4000,
+      "wantRead": 120,
+      "currentRead": 4500,
+      "haveRead": 30000,
+      "publishDate": 1813,
+      "publisher": "T. Egerton, Whitehall",
+      "language": "English",
+      "pages": 279,
+      "publishPlace": "London, UK",
+      "series": null,
+      "format": "Hardcover",
+      "pagination": "279 pages",
+      "dimensions": "20.5 x 13.5 x 4 centimeters",
+      "openLibrary": "OL2545678M",
+      "internetArchive": "prideprejudice0000jane",
+      "ISBN10": "0141439513",
+      "ISBN13": "9780141439518",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROgSDne8m5O3nkHGxzVozVd6kRn4DMsfMFrk9K8gQLgLON03Ax",
+          "name": "Austen, Jane",
+          "birth_year": 1775,
+          "death_year": 1817,
+          "authorInformation": "Jane Austen was an English novelist known primarily for her six novels, which implicitly interpret, critique, and comment upon the British landed gentry at the end of the 18th century.",
+          "booksNumber": 9,
+          "novelsNumber": 30,
+          "quotesNumber": 90,
+          "storiesNumber": 50,
+          "authorWorks": [
+            {
+              "title": "Pride and Prejudice",
+              "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3a2_MbdHzpgLJvWTYqQdfXd0ehD9-ihQsgHUy5xl53cehcK0wIELWXilrDWJLPiWivEWA"
+            },
+            {
+              "title": "Emma",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqf3zbaaFy-S6TiRc1Uq2CYlmbkso2exFFUA&s"
+            },
+            {
+              "title": "Persuasion",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0jePh3qWZn9sJz713lz5_3VPYF4qqxXx_6g&s"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    },
+    {
+      "id": 11,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIoK6OIAZgmS1M7iluBHahHNFgJLNqnONq3lK4hj7kCAJsvQTDcgyKuKNX8g&s=10",
+      "title": "Romeo and Juliet",
+      "starRate": 5000,
+      "wantRead": 300,
+      "currentRead": 5000,
+      "haveRead": 40000,
+      "publishDate": 1597,
+      "publisher": "Thomas Creede",
+      "language": "English",
+      "pages": 159,
+      "publishPlace": "London, UK",
+      "series": null,
+      "format": "Paperback",
+      "pagination": "159 pages",
+      "dimensions": "20 x 13 x 1.5 centimeters",
+      "openLibrary": "OL362233M",
+      "internetArchive": "romeojuliet00shak",
+      "ISBN10": "0451528371",
+      "ISBN13": "9780451528376",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZAH8Sx3JCqGo5DQoCOVbmLYuRSqbqAs48g&s",
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616,
+          "authorInformation": "William Shakespeare was an English playwright, poet, and actor. He is widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist.",
+          "booksNumber": 20,
+          "novelsNumber": 8,
+          "quotesNumber": 0,
+          "storiesNumber": 0,
+          "authorWorks": [
+            {
+              "title": "Romeo and Juliet",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIoK6OIAZgmS1M7iluBHahHNFgJLNqnONq3lK4hj7kCAJsvQTDcgyKuKNX8g&s=10"
+            },
+            {
+              "title": "King Lear",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqGoyK75qaCnbV4yXLAdlNjf9GIGrTM8QTX0OqlPXk9k9mhN_gLJebAfRnOWg&s=10"
+            },
+            {
+              "title": "Julius Caesar",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpdpXLJED2WsU7rp8VSBA0L_Itg3VaWSC1immjQ66oSnnP8AwzD5WdjI5InBA5lwLQ9Gg&s=10"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    },
+    {
+      "id": 12,
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnA0D1-HqgVi5G_5b6Ow-6fMr2HhR4Zx7OdR1w3Aey4PqbpMXuUOqg4Bv4i6Kf8cJ5CZQ&s",
+      "title": "The Great Gatsby",
+      "starRate": 2900,
+      "wantRead": 400,
+      "currentRead": 1400,
+      "haveRead": 7000,
+      "publishDate": 1925,
+      "publisher": "Charles Scribner's Sons",
+      "language": "English",
+      "pages": 218,
+      "publishPlace": "New York, NY, USA",
+      "series": null,
+      "format": "Hardcover",
+      "pagination": "218 pages",
+      "dimensions": "22 x 14 x 3 centimeters",
+      "openLibrary": "OL6792357M",
+      "internetArchive": "greatgatsby00fitz",
+      "ISBN10": "0743273567",
+      "ISBN13": "9780743273565",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYsN_0nntDZg4qzr1qJNLklwPIICBgwkS_S9w&s",
+          "name": "Fitzgerald, F. Scott",
+          "birth_year": 1896,
+          "death_year": 1940,
+          "authorInformation": "F. Scott Fitzgerald was an American novelist and short story writer, widely regarded as one of the greatest American writers of the 20th century.",
+          "booksNumber": 30,
+          "novelsNumber": 12,
+          "quotesNumber": 30,
+          "storiesNumber": 20,
+          "authorWorks": [
+            {
+              "title": "The Great Gatsby",
+              "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnA0D1-HqgVi5G_5b6Ow-6fMr2HhR4Zx7OdR1w3Aey4PqbpMXuUOqg4Bv4i6Kf8cJ5CZQ&s"
+            },
+            {
+              "title": "Tender Is the Night",
+              "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeEw6FGIobGbPEyFmGQg3XkeQc93Wf7AXy5A&s"
+            },
+            {
+              "title": "This Side of Paradise",
+              "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS39T1RrNhGpBi4ENjmcN04hyaWq3nv0odTP6X&s"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    },
+    {
+      "id": 13,
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnA0D1-HqgVi5G_5b6Ow-6fMr2HhR4Zx7OdR1w3Aey4PqbpMXuUOqg4Bv4i6Kf8cJ5CZQ&s",
+      "title": "Frankenstein",
+      "starRate": 2345,
+      "wantRead": 234,
+      "currentRead": 3457,
+      "haveRead": 38005,
+      "publishDate": 2020,
+      "publisher": "Bloomsbury Publishing",
+      "language": "English",
+      "pages": 230,
+      "publishPlace": "London, UK",
+      "series": "Court of Thorns and Roses #2",
+      "format": "Paperback",
+      "pagination": "626 pages : maps",
+      "dimensions": "20 x 13 x 4.2 centimeters",
+      "openLibrary": "OL30162974M",
+      "internetArchive": "courtofmistfury0000maas_c3x6",
+      "ISBN10": "1526617161",
+      "ISBN13": "9781526617163",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ63gauqb3UD33ZK1F7OUSJaUGmSO6Awpka_uHccetMtZKfILHg",
+          "name": "Shelley, Mary Wollstonecraft",
+          "birth_year": 1797,
+          "death_year": 1851,
+          "authorInformation": "Frankenstein; or, The Modern Prometheus is an 1818 novel written by English author Mary Shelley. Frankenstein tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment.",
+          "booksNumber": 20,
+          "novelsNumber": 30,
+          "quotesNumber": 50,
+          "storiesNumber": 60,
+          "authorWorks": [
+            {
+              "title": "Mary Shelley's Frankenstein",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_jZfz4t7VtgEUQ6l41gSTu298APupIM2CjA&usqp=CAU"
+            },
+            {
+              "title": "Frankenstein",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuYoVBmjvXolKvixpu38AiNTT3v1F-5xCaOA&usqp=CAU"
+            },
+            {
+              "title": "What Is the Story of Frankenstein?",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUHXuYaUa3rjcryfqMrIVznBCG6f6tn-UYzw&usqp=CAU"
+            },
+            {
+              "title": "Frankenstein the Real Story",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMp_5yfZq0JcpcV4P8_e4m3AGo89lWpX2Nv3nglHvZ6xQN_v_z7cDqiKuOLjpH1bVSph8&usqp=CAU"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    },
+    {
+      "id": 14,
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3a2_MbdHzpgLJvWTYqQdfXd0ehD9-ihQsgHUy5xl53cehcK0wIELWXilrDWJLPiWivEWA",
+      "title": "Pride and Prejudice",
+      "starRate": 4000,
+      "wantRead": 120,
+      "currentRead": 4500,
+      "haveRead": 30000,
+      "publishDate": 1813,
+      "publisher": "T. Egerton, Whitehall",
+      "language": "English",
+      "pages": 279,
+      "publishPlace": "London, UK",
+      "series": null,
+      "format": "Hardcover",
+      "pagination": "279 pages",
+      "dimensions": "20.5 x 13.5 x 4 centimeters",
+      "openLibrary": "OL2545678M",
+      "internetArchive": "prideprejudice0000jane",
+      "ISBN10": "0141439513",
+      "ISBN13": "9780141439518",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROgSDne8m5O3nkHGxzVozVd6kRn4DMsfMFrk9K8gQLgLON03Ax",
+          "name": "Austen, Jane",
+          "birth_year": 1775,
+          "death_year": 1817,
+          "authorInformation": "Jane Austen was an English novelist known primarily for her six novels, which implicitly interpret, critique, and comment upon the British landed gentry at the end of the 18th century.",
+          "booksNumber": 9,
+          "novelsNumber": 30,
+          "quotesNumber": 90,
+          "storiesNumber": 50,
+          "authorWorks": [
+            {
+              "title": "Pride and Prejudice",
+              "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3a2_MbdHzpgLJvWTYqQdfXd0ehD9-ihQsgHUy5xl53cehcK0wIELWXilrDWJLPiWivEWA"
+            },
+            {
+              "title": "Emma",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqf3zbaaFy-S6TiRc1Uq2CYlmbkso2exFFUA&s"
+            },
+            {
+              "title": "Persuasion",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0jePh3qWZn9sJz713lz5_3VPYF4qqxXx_6g&s"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    },
+    {
+      "id": 15,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIoK6OIAZgmS1M7iluBHahHNFgJLNqnONq3lK4hj7kCAJsvQTDcgyKuKNX8g&s=10",
+      "title": "Romeo and Juliet",
+      "starRate": 5000,
+      "wantRead": 300,
+      "currentRead": 5000,
+      "haveRead": 40000,
+      "publishDate": 1597,
+      "publisher": "Thomas Creede",
+      "language": "English",
+      "pages": 159,
+      "publishPlace": "London, UK",
+      "series": null,
+      "format": "Paperback",
+      "pagination": "159 pages",
+      "dimensions": "20 x 13 x 1.5 centimeters",
+      "openLibrary": "OL362233M",
+      "internetArchive": "romeojuliet00shak",
+      "ISBN10": "0451528371",
+      "ISBN13": "9780451528376",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZAH8Sx3JCqGo5DQoCOVbmLYuRSqbqAs48g&s",
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616,
+          "authorInformation": "William Shakespeare was an English playwright, poet, and actor. He is widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist.",
+          "booksNumber": 20,
+          "novelsNumber": 8,
+          "quotesNumber": 0,
+          "storiesNumber": 0,
+          "authorWorks": [
+            {
+              "title": "Romeo and Juliet",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIoK6OIAZgmS1M7iluBHahHNFgJLNqnONq3lK4hj7kCAJsvQTDcgyKuKNX8g&s=10"
+            },
+            {
+              "title": "King Lear",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqGoyK75qaCnbV4yXLAdlNjf9GIGrTM8QTX0OqlPXk9k9mhN_gLJebAfRnOWg&s=10"
+            },
+            {
+              "title": "Julius Caesar",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpdpXLJED2WsU7rp8VSBA0L_Itg3VaWSC1immjQ66oSnnP8AwzD5WdjI5InBA5lwLQ9Gg&s=10"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    },
+    {
+      "id": 16,
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnA0D1-HqgVi5G_5b6Ow-6fMr2HhR4Zx7OdR1w3Aey4PqbpMXuUOqg4Bv4i6Kf8cJ5CZQ&s",
+      "title": "The Great Gatsby",
+      "starRate": 2900,
+      "wantRead": 400,
+      "currentRead": 1400,
+      "haveRead": 7000,
+      "publishDate": 1925,
+      "publisher": "Charles Scribner's Sons",
+      "language": "English",
+      "pages": 218,
+      "publishPlace": "New York, NY, USA",
+      "series": null,
+      "format": "Hardcover",
+      "pagination": "218 pages",
+      "dimensions": "22 x 14 x 3 centimeters",
+      "openLibrary": "OL6792357M",
+      "internetArchive": "greatgatsby00fitz",
+      "ISBN10": "0743273567",
+      "ISBN13": "9780743273565",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYsN_0nntDZg4qzr1qJNLklwPIICBgwkS_S9w&s",
+          "name": "Fitzgerald, F. Scott",
+          "birth_year": 1896,
+          "death_year": 1940,
+          "authorInformation": "F. Scott Fitzgerald was an American novelist and short story writer, widely regarded as one of the greatest American writers of the 20th century.",
+          "booksNumber": 30,
+          "novelsNumber": 12,
+          "quotesNumber": 30,
+          "storiesNumber": 20,
+          "authorWorks": [
+            {
+              "title": "The Great Gatsby",
+              "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnA0D1-HqgVi5G_5b6Ow-6fMr2HhR4Zx7OdR1w3Aey4PqbpMXuUOqg4Bv4i6Kf8cJ5CZQ&s"
+            },
+            {
+              "title": "Tender Is the Night",
+              "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeEw6FGIobGbPEyFmGQg3XkeQc93Wf7AXy5A&s"
+            },
+            {
+              "title": "This Side of Paradise",
+              "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS39T1RrNhGpBi4ENjmcN04hyaWq3nv0odTP6X&s"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    },
+    {
+      "id": 17,
+      "image": "https://covers.openlibrary.org/b/id/12614602-M.jpg",
+      "title": "Frankenstein",
+      "starRate": 2345,
+      "wantRead": 234,
+      "currentRead": 3457,
+      "haveRead": 38005,
+      "publishDate": 2020,
+      "publisher": "Bloomsbury Publishing",
+      "language": "English",
+      "pages": 230,
+      "publishPlace": "London, UK",
+      "series": "Court of Thorns and Roses #2",
+      "format": "Paperback",
+      "pagination": "626 pages : maps",
+      "dimensions": "20 x 13 x 4.2 centimeters",
+      "openLibrary": "OL30162974M",
+      "internetArchive": "courtofmistfury0000maas_c3x6",
+      "ISBN10": "1526617161",
+      "ISBN13": "9781526617163",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ63gauqb3UD33ZK1F7OUSJaUGmSO6Awpka_uHccetMtZKfILHg",
+          "name": "Shelley, Mary Wollstonecraft",
+          "birth_year": 1797,
+          "death_year": 1851,
+          "authorInformation": "Frankenstein; or, The Modern Prometheus is an 1818 novel written by English author Mary Shelley. Frankenstein tells the story of Victor Frankenstein, a young scientist who creates a sapient creature in an unorthodox scientific experiment.",
+          "booksNumber": 20,
+          "novelsNumber": 30,
+          "quotesNumber": 50,
+          "storiesNumber": 60,
+          "authorWorks": [
+            {
+              "title": "Mary Shelley's Frankenstein",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_jZfz4t7VtgEUQ6l41gSTu298APupIM2CjA&usqp=CAU"
+            },
+            {
+              "title": "Frankenstein",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuYoVBmjvXolKvixpu38AiNTT3v1F-5xCaOA&usqp=CAU"
+            },
+            {
+              "title": "What Is the Story of Frankenstein?",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUHXuYaUa3rjcryfqMrIVznBCG6f6tn-UYzw&usqp=CAU"
+            },
+            {
+              "title": "Frankenstein the Real Story",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMp_5yfZq0JcpcV4P8_e4m3AGo89lWpX2Nv3nglHvZ6xQN_v_z7cDqiKuOLjpH1bVSph8&usqp=CAU"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    },
+    {
+      "id": 18,
+      "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3a2_MbdHzpgLJvWTYqQdfXd0ehD9-ihQsgHUy5xl53cehcK0wIELWXilrDWJLPiWivEWA",
+      "title": "Pride and Prejudice",
+      "starRate": 4000,
+      "wantRead": 120,
+      "currentRead": 4500,
+      "haveRead": 30000,
+      "publishDate": 1813,
+      "publisher": "T. Egerton, Whitehall",
+      "language": "English",
+      "pages": 279,
+      "publishPlace": "London, UK",
+      "series": null,
+      "format": "Hardcover",
+      "pagination": "279 pages",
+      "dimensions": "20.5 x 13.5 x 4 centimeters",
+      "openLibrary": "OL2545678M",
+      "internetArchive": "prideprejudice0000jane",
+      "ISBN10": "0141439513",
+      "ISBN13": "9780141439518",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROgSDne8m5O3nkHGxzVozVd6kRn4DMsfMFrk9K8gQLgLON03Ax",
+          "name": "Austen, Jane",
+          "birth_year": 1775,
+          "death_year": 1817,
+          "authorInformation": "Jane Austen was an English novelist known primarily for her six novels, which implicitly interpret, critique, and comment upon the British landed gentry at the end of the 18th century.",
+          "booksNumber": 9,
+          "novelsNumber": 30,
+          "quotesNumber": 90,
+          "storiesNumber": 50,
+          "authorWorks": [
+            {
+              "title": "Pride and Prejudice",
+              "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3a2_MbdHzpgLJvWTYqQdfXd0ehD9-ihQsgHUy5xl53cehcK0wIELWXilrDWJLPiWivEWA"
+            },
+            {
+              "title": "Emma",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqf3zbaaFy-S6TiRc1Uq2CYlmbkso2exFFUA&s"
+            },
+            {
+              "title": "Persuasion",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0jePh3qWZn9sJz713lz5_3VPYF4qqxXx_6g&s"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    },
+    {
+      "id": 19,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIoK6OIAZgmS1M7iluBHahHNFgJLNqnONq3lK4hj7kCAJsvQTDcgyKuKNX8g&s=10",
+      "title": "Romeo and Juliet",
+      "starRate": 5000,
+      "wantRead": 300,
+      "currentRead": 5000,
+      "haveRead": 40000,
+      "publishDate": 1597,
+      "publisher": "Thomas Creede",
+      "language": "English",
+      "pages": 159,
+      "publishPlace": "London, UK",
+      "series": null,
+      "format": "Paperback",
+      "pagination": "159 pages",
+      "dimensions": "20 x 13 x 1.5 centimeters",
+      "openLibrary": "OL362233M",
+      "internetArchive": "romeojuliet00shak",
+      "ISBN10": "0451528371",
+      "ISBN13": "9780451528376",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHZAH8Sx3JCqGo5DQoCOVbmLYuRSqbqAs48g&s",
+          "name": "Shakespeare, William",
+          "birth_year": 1564,
+          "death_year": 1616,
+          "authorInformation": "William Shakespeare was an English playwright, poet, and actor. He is widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist.",
+          "booksNumber": 20,
+          "novelsNumber": 8,
+          "quotesNumber": 0,
+          "storiesNumber": 0,
+          "authorWorks": [
+            {
+              "title": "Romeo and Juliet",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKIoK6OIAZgmS1M7iluBHahHNFgJLNqnONq3lK4hj7kCAJsvQTDcgyKuKNX8g&s=10"
+            },
+            {
+              "title": "King Lear",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqGoyK75qaCnbV4yXLAdlNjf9GIGrTM8QTX0OqlPXk9k9mhN_gLJebAfRnOWg&s=10"
+            },
+            {
+              "title": "Julius Caesar",
+              "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpdpXLJED2WsU7rp8VSBA0L_Itg3VaWSC1immjQ66oSnnP8AwzD5WdjI5InBA5lwLQ9Gg&s=10"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    },
+    {
+      "id": 20,
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnA0D1-HqgVi5G_5b6Ow-6fMr2HhR4Zx7OdR1w3Aey4PqbpMXuUOqg4Bv4i6Kf8cJ5CZQ&s",
+      "title": "The Great Gatsby",
+      "starRate": 2900,
+      "wantRead": 400,
+      "currentRead": 1400,
+      "haveRead": 7000,
+      "publishDate": 1925,
+      "publisher": "Charles Scribner's Sons",
+      "language": "English",
+      "pages": 218,
+      "publishPlace": "New York, NY, USA",
+      "series": null,
+      "format": "Hardcover",
+      "pagination": "218 pages",
+      "dimensions": "22 x 14 x 3 centimeters",
+      "openLibrary": "OL6792357M",
+      "internetArchive": "greatgatsby00fitz",
+      "ISBN10": "0743273567",
+      "ISBN13": "9780743273565",
+      "authors": [
+        {
+          "authorImage": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTYsN_0nntDZg4qzr1qJNLklwPIICBgwkS_S9w&s",
+          "name": "Fitzgerald, F. Scott",
+          "birth_year": 1896,
+          "death_year": 1940,
+          "authorInformation": "F. Scott Fitzgerald was an American novelist and short story writer, widely regarded as one of the greatest American writers of the 20th century.",
+          "booksNumber": 30,
+          "novelsNumber": 12,
+          "quotesNumber": 30,
+          "storiesNumber": 20,
+          "authorWorks": [
+            {
+              "title": "The Great Gatsby",
+              "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnA0D1-HqgVi5G_5b6Ow-6fMr2HhR4Zx7OdR1w3Aey4PqbpMXuUOqg4Bv4i6Kf8cJ5CZQ&s"
+            },
+            {
+              "title": "Tender Is the Night",
+              "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQeEw6FGIobGbPEyFmGQg3XkeQc93Wf7AXy5A&s"
+            },
+            {
+              "title": "This Side of Paradise",
+              "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS39T1RrNhGpBi4ENjmcN04hyaWq3nv0odTP6X&s"
+            }
+          ]
+        }
+      ],
+      "copyright": false,
+      "media_type": "Text"
+    }
+  ]
+}

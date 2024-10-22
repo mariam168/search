@@ -1,0 +1,19 @@
+footer{
+    background-color: var(--whiteningMainColor);
+    margin-top: 50px;
+}
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    color: var(--grayColor); 
+    width: 95%;
+    margin: auto;
+
+}
+.footer-content .logo span{
+    color: var(--goldColor);
+}
+footer ul li{
+    list-style: none;
+}

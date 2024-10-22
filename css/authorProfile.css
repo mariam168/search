@@ -1,0 +1,232 @@
+.authorProfile {
+    margin-top: 20px;
+}
+.authorProfileContent{
+   display: flex;
+   flex-direction: row;
+   width: 95%;
+   margin: auto;
+}
+.authorProfileContent .leftSection{
+    width: 350px;
+    border: 1px solid var(--goldColor);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--whiteningMainColor);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    padding: 10px;
+ }
+ .authorProfileContent .leftSection img{
+     width: 200px;
+     height: 255px;
+     padding-top: 20px;
+ }
+ 
+ .authorProfileContent .leftSection div{
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     align-items: center;
+     color: var(--grayColor);
+     width: 250px;
+     height: 40px;
+     margin-top: 10px;
+     border-radius: 5px;
+     -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+     -ms-border-radius: 5px;
+     -o-border-radius: 5px;
+     margin-top: 15px;
+ }
+ .leftSection button{
+    width: 90%;
+    padding: 10px;
+    margin: 5px;
+    background-color: var(--whiteningMainColor);
+    border: 1px solid var(--goldColor);
+    color: var(--goldColor);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+ .leftSection .author-follow-us{
+     display: flex;
+     flex-direction: row;
+     flex-wrap: wrap;
+   
+ }
+ 
+ .leftSection .author-follow-us .author-share-icon{
+      font-size: 50px;
+      border: solid 1px var(--goldColor);
+      width: 90px;
+      height: 90px;
+      padding: 5px;
+      margin: 3px;
+      border-radius:5px ;
+      -webkit-border-radius:5px ;
+      -moz-border-radius:5px ;
+      -ms-border-radius:5px ;
+      -o-border-radius:5px ;
+ }
+ 
+ 
+ .leftSection form{
+     background-color: var(--grayColor);
+     margin-top: 200px;
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     
+     width: 100%;
+     border-radius: 5px;
+     -webkit-border-radius: 5px;
+     -moz-border-radius: 5px;
+     -ms-border-radius: 5px;
+     -o-border-radius: 5px;
+ }
+ .leftSection form input{
+     width: 80%;
+     padding: 10px;
+     margin: 5px;
+ }
+ .leftSection form button{
+     width: 90%;
+     padding: 10px;
+     margin: 10px;
+     background-color: black;
+     color: var(--grayColor);
+ }
+ 
+.authorProfileContent .rightSection{
+    margin-left: 30px;
+    color: white;
+}
+
+.authorProfileContent .rightSection .total{
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-top: 50px;
+    justify-content: center;
+  
+}
+.authorProfileContent .rightSection .total div{
+    width: 120px;
+    height: 120px;
+    background-color: var(--whiteningMainColor);
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    margin: -20px 20px;
+    box-shadow: 0px 0px 5px 3px var(--grayColor);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.authorProfileContent .rightSection .total div h3{
+    color: white;
+}
+.share-author{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--grayColor);
+    margin-top: 50px;
+    background-color: var(--whiteningMainColor);
+    
+}
+.share-author div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.share-author div .share-icon{
+    font-size: 25px;
+    padding: 10px;
+}
+.share-author .share-author-icons .share-icon{
+    border: 2px solid var(--goldColor);
+    margin: 0px 5px;
+    font-size: 20px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.share-author .share-author-icons .share-icon:hover{
+    background-color: var(--goldColor);
+    color: white;
+}
+
+
+.authorSection{
+ background-color: var(--whiteningMainColor);
+ padding: 10px;
+ margin-top: 10px;
+}
+.authorSection h2{
+    color: var(--grayColor);
+   
+}
+.authorSectionContent {
+    display: flex;
+    flex-direction: row;
+   
+    align-items: center;
+    color: var(--grayColor);
+}
+
+.authorSectionContent div{
+    margin: 10px;
+   
+    height: 230px;
+    background-color: var(--whiteningMainColor);
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}
+.authorSectionContent img{
+    width: 150px;
+    height: 150px;
+   
+    margin-top: 10px;
+    border-width: 5px; 
+    border-top-width: 10px;
+    border-style: solid; 
+    border-image: linear-gradient(to bottom,yellow ,var(--goldColor), var(--whiteningMainColor) )3;
+}
+.author-quotes-reviews{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 5px;
+  
+    
+}
+.author-quotes-reviews button{
+    width: 50%;
+   padding: 10px;
+   background-color: var(--grayColor);
+   border-color: var(--goldColor);
+   color: var(--whiteningMainColor);
+}
+.author-quotes-reviews-content{
+    height: 300px;
+    background-color: var(--whiteningMainColor);
+}

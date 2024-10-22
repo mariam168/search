@@ -1,0 +1,183 @@
+
+.homeBackground{
+    background-image: url(../books-images/homeBackground.jfif);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    height: 89vh;
+    background-position-Y: -200px; 
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column; 
+    position: relative;
+    z-index: 1;   
+}
+.home-background-info{
+    margin-top: -40px;
+    text-align: center;
+    color:white;
+}
+.homeBackground .search{
+    background-color: rgba(255, 255, 255, 0.658);
+    border-radius: 10px;
+    height: 60px;
+    width: 620px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    border-color: transparent;
+    box-shadow: 0px 0px 5px 3px var(--goldColor);
+    padding: 20px;
+    color: black;
+}
+.search-dropdown{
+    background-color:rgba(255, 255, 255, 0.658) ;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-decoration: none;
+    width: 620px;  
+}
+.search-dropdown .search-item{
+    list-style: none;
+    color: black;
+    padding: 5px 10px;
+}
+
+ .search-dropdown .search-item:hover{
+    background-color: var(--goldColor);
+}
+
+
+.homeNav ul{
+    display: flex;
+    flex-direction: row;
+    height: 60px;
+    color: var(--grayColor);
+    width: 80%;
+    margin: auto;
+   margin-top: 10px;
+}
+.homeNav ul li{
+    border-bottom: 3px solid var(--goldColor) ;
+    padding: 5px 10px;
+    font-weight: bold;
+    list-style: none;
+    margin: auto;
+    
+}
+.homeNav ul li:hover{
+    border-bottom: 5px solid yellow ;
+}
+
+ .homeContent{
+    
+    width: 90%;
+    margin: auto;
+ }
+.homeContent h2{
+    color: var(--grayColor);
+}
+.topBooksContent,.topAuthorsContent,.recentBooksContent{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;   
+    margin-bottom: 50px;
+    min-width: 100%;
+    overflow-x: scroll;
+
+}
+.topBooks::-webkit-scrollbar,
+.topAuthors::-webkit-scrollbar,
+.recentBooks::-webkit-scrollbar{
+    background-color: var(--grayColor);
+   
+    height: 10px;
+   
+}
+.topBooks::-webkit-scrollbar-thumb,
+.topAuthors::-webkit-scrollbar-thumb,
+.recentBooks::-webkit-scrollbar-thumb{
+    background-color: var(--whiteningMainColor);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.topBooks h3 ,
+.topAuthors h3,
+.recentBooks h3{
+    color: var(--goldColor);
+    text-align: center;
+  
+}
+.topBooks h4 ,
+.topAuthors h4,
+.recentBooks h4{
+    color: white;
+    font-size: 13px;
+    position: relative;
+    top: -10px;
+    text-align: center;
+}
+
+.forTitle{
+    width: 150px;
+    margin: 10px ;
+}
+.forTitle:hover{
+    transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -o-transform: scale(1.1);
+}
+.homeContent .image{
+    width: 150px;
+    height: 200px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    box-shadow: 0px 0px 3px 3px var(--goldColor);
+    
+    
+}
+
+.topAuthors img{
+    height: 200px;
+    width: 150px;
+    border-radius: 120px;
+    -webkit-border-radius: 120px;
+    -moz-border-radius: 120px;
+    -ms-border-radius: 120px;
+    -o-border-radius: 120px;
+    
+   
+    box-shadow: 0px 0px 3px 3px var(--goldColor);
+}
+.websiteInformation{
+    background-image: url('../books-images/homewebsiteInformation.png');
+    width: 1000px;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+     display: flex;
+    justify-content: center; 
+    align-items: center; 
+     margin-bottom: 50px;   
+     
+}
+
+.websiteInformation .websiteInformationText{
+   
+   color: var(--whiteningMainColor);
+}
+
+

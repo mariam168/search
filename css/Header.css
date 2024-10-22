@@ -1,0 +1,72 @@
+.top-header {
+    background-color: var(--whiteningMainColor);
+    height: 80px;
+    border-bottom: 2px solid var(--goldColor);
+}
+
+.top-header-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    width: 95%;
+    margin: auto;
+    height: 100%; 
+}
+
+.top-header-content ul {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+
+.top-header-content .logo h2 span {
+    color: var(--goldColor);
+}
+
+.top-header-content .middle-nav {
+    height: 100%;
+}
+
+.top-header-content .middle-nav li {
+    padding: 5px;
+    margin: 3px;
+    transition: all 0.5s ease;
+    height: 100%; 
+    display: flex; 
+    align-items: center; 
+}
+
+.top-header-content .middle-nav li a {
+    text-decoration: none;
+    color: white;
+}
+
+.top-header-content .middle-nav li h4 {
+    padding: 10px;
+}
+
+.top-header-content .middle-nav li.active {
+   background-color: var(--goldColor);
+   height: 80%;
+  }
+
+.top-header-content .sign-button li button {
+    padding: 10px 20px;
+    color: var(--goldColor);
+    background-color: var(--whiteningMainColor);
+    border: 2px solid var(--goldColor);
+    border-radius: 5px;
+    margin: 3px;
+    transition: all 0.5s ease;
+}
+.top-header-content .sign-button li button:hover{
+    background-color: var(--grayColor);
+    color: var(--whiteningMainColor);
+    border: 2px solid var(--whiteningMainColor);
+}

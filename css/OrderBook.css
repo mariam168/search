@@ -1,0 +1,74 @@
+.orderBook{
+    background-image: url('../books-images/orderBookImage.jfif');
+    width: 100%;
+    height: 100vh;
+     background-size:cover; 
+    background-repeat: no-repeat; 
+    background-position-y: -10px;
+    
+  
+    
+}
+.orderBookContent{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    
+}
+.orderBookContent form{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width:755px;
+    height: 430px;
+    margin-top: 50px;
+    background-color: rgba(109, 39, 39, 0.24);    
+}
+.orderBookContent div{
+   display: flex;
+   flex-direction: column;
+   padding: 10px;
+}
+.orderBookContent form input{
+    margin: 15px 0px;
+    padding: 15px ;
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: #2b13136e;
+    width: 310px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.orderBookContent .additionalNotes{
+    height: 210px;
+    width: 320px;
+    background-color: #2b13136e;
+    border-radius: 5px;
+    border-color: transparent;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    padding: 5px;
+    margin-left: 10px;
+}
+.orderBookContent form button{
+    margin: 15px 0px;
+    padding: 13px 0px;
+    border-radius: 5px;
+    border-color: transparent;
+    background-color: #2b1313c5;
+    width: 330px;
+    color: white;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
